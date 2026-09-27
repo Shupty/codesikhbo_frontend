@@ -16,3 +16,7 @@ Copy `.env.example` to `.env` for a new installation. The configured backend use
 API endpoints include authentication (`/api/auth`), dashboard (`/api/dashboard`), course CRUD (`/api/courses`), admin user management (`/api/users`).
 
 Never commit `.env` files.
+
+for admin login:
+ADMIN_EMAIL=admin@example.com
+ADMIN_PASSWORD=ChangeMe123!
